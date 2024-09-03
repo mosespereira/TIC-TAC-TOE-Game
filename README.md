@@ -1,2 +1,3 @@
 # TIC-TAC-TOE-Game
-Mini Project in Python as internship at internpe
+
+Mini Project in Python as internship at InternPe
